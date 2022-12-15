@@ -15,4 +15,9 @@
 
 Ручка получения списка фотографий - GET https://jsonplaceholder.typicode.com/photos  
 
-Ручка получения списка альбомов - GET https://jsonplaceholder.typicode.com/albums 
+Ручка получения списка альбомов - GET https://jsonplaceholder.typicode.com/albums
+
+Вывести в таблицу имя пользователя, который добавил альбом
+(ручка получения списка пользователей GET https://jsonplaceholder.typicode.com/users
+
+При клике на кнопку в таблце должно открываться модальное окно с информацией о пользователе (username, email, phone, company.name)
